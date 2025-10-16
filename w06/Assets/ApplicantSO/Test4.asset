@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a49fe7c535fee24bb29568a06e555b4, type: 3}
+  m_Name: Test4
+  m_EditorClassIdentifier: 
+  applicantInfo:
+    applicantName: test4
+    age: 17
+    portrait: {fileID: 0}
+    careerHistory:
+    - "\uACE0\uC878"
+    interviewQuestions:
+    - "\uC65C \uC9C0\uC6D0\uD568?"
+    - "\uACE0\uC878\uC778\uB370 \uC798 \uD560 \uC790\uC2E0 \uC788\uC74C?"
+    interviewAnswers:
+    - "\uB3C8\uBC8C\uC5B4\uC57C\uC9C0"
+    - "\u3147\u3147"
+  impact: 5
