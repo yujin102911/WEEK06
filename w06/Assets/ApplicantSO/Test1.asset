@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: Test1
   m_EditorClassIdentifier: 
   applicantInfo:
-    applicantName: test1
-    age: 32
+    applicantName: "\uC774\uD0DC\uC724"
+    age: 25
     portrait: {fileID: 0}
     careerHistory:
-    - "OO\uACE0\uB4F1\uD559\uAD50 \uC878\uC5C5"
+    - "\uBD80\uD765\uACE0\uB4F1\uD559\uAD50 \uC878\uC5C5\t"
     - "OO\uB300\uD559\uAD50 \uAD6D\uC5B4\uAD6D\uBB38\uD559\uACFC \uC878\uC5C5"
     - "\uC74C\uC2DD\uC810 \uC11C\uBE59\uC54C\uBC14 1\uB144 6\uAC1C\uC6D4"
     - "\uD3B8\uC758\uC810 \uC54C\uBC14 6\uAC1C\uC6D4"
